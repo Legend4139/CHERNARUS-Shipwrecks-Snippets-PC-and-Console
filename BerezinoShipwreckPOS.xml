@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<map>
+	<group name="Land_Container_1Bo" pos="13176.847656 -0.049704 9752.851563" rpy="-34.999996 0.000000 -28.651764" a="118.652"/>
+	<group name="Land_Container_1Aoh" pos="13179.896484 0.028739 9741.386719" rpy="-69.999992 -4.999900 -98.255035" a="-171.745"/>
+	<group name="Land_Container_1Mo" pos="13192.036133 0.013452 9746.216797" rpy="-95.000000 0.000000 41.536972" a="48.463"/>
+	<group name="StaticObj_Container_1D" pos="13200.281250 0.341470 9735.393555" rpy="-34.999996 0.000000 -114.021225" a="-155.979"/>
+	<group name="StaticObj_Container_1C" pos="13193.645508 0.202996 9727.893555" rpy="-54.999969 -19.998859 156.706375" a="-66.7064"/>
+	<group name="Land_Container_1Bo" pos="13189.336914 -0.026038 9737.929688" rpy="-46.999992 0.000000 -108.861267" a="-161.139"/>
+	<group name="Land_Container_1Aoh" pos="13214.840820 0.068475 9739.607422" rpy="-69.999992 -4.999790 -12.312802" a="102.313"/>
+	<group name="Land_Container_1Mo" pos="13174.287109 0.557779 9766.753906" rpy="-95.000000 0.000000 -106.427872" a="-163.572"/>
+	<group name="StaticObj_Container_1C" pos="13163.059570 -0.631629 9733.867188" rpy="-54.999962 -19.993746 -107.317490" a="-162.683"/>
+	<group name="StaticObj_Container_1D" pos="13160.641602 -0.014060 9752.228516" rpy="-34.999996 0.000000 -135.212021" a="-134.788"/>
+	<group name="Land_Container_1Mo" pos="13211.580078 0.027673 9720.602539" rpy="-95.000000 0.000000 75.913620" a="14.0864"/>
+	<group name="StaticObj_Rubble_Metal3" pos="13183.234375 0.211969 9731.576172" rpy="-0.000000 -0.000000 -32.361805" a="122.362"/>
+	<group name="StaticObj_Rubble_Metal3" pos="13186.262695 0.425668 9753.298828" rpy="-0.000000 -0.000000 -110.716438" a="-159.284"/>
+	<group name="StaticObj_Furniture_metalcase_02" pos="13167.282227 0.489434 9742.858398" rpy="-179.999893 -82.979866 131.580933" a="-41.5809"/>
+	<group name="StaticObj_Furniture_locker_open_v2" pos="13172.958984 0.365899 9753.166992" rpy="0.000000 -76.987564 84.944618" a="5.05538"/>
+	<group name="StaticObj_Rubble_Metal3" pos="13170.762695 0.377435 9766.357422" rpy="-0.000000 -0.000000 159.432098" a="-69.4321"/>
+	<group name="StaticObj_Furniture_locker_closed_v1" pos="13177.562500 0.429345 9759.762695" rpy="179.999893 -79.998688 156.362595" a="-66.3626"/>
+	<group name="StaticObj_ammoboxes_single" pos="13171.061523 0.681604 9746.859375" rpy="0.000000 -24.999924 -120.320267" a="-149.68"/>
+	<group name="StaticObj_ammoboxes_single" pos="13172.312500 0.482324 9759.891602" rpy="45.999985 -24.999733 153.737442" a="-63.7374"/>
+	<group name="StaticObj_ammoboxes_single" pos="13160.229492 0.674585 9741.521484" rpy="9.999996 0.000000 -97.402267" a="-172.598"/>
+	<group name="StaticObj_ammoboxes_single" pos="13169.607422 0.881173 9738.854492" rpy="9.999996 0.000000 -0.001020" a="90.001"/>
+	<group name="StaticObj_ammoboxes_single" pos="13168.057617 0.813745 9753.176758" rpy="9.999996 0.000000 -70.472801" a="160.473"/>
+	<group name="StaticObj_ammoboxes_single" pos="13162.082031 0.786737 9760.998047" rpy="9.999996 0.000000 -47.554905" a="137.555"/>
+	<group name="StaticObj_ammoboxes_single" pos="13187.385742 0.649804 9749.810547" rpy="9.999996 0.000000 -18.907488" a="108.907"/>
+	<group name="StaticObj_ammoboxes_single" pos="13185.421875 0.815469 9743.528320" rpy="9.999996 0.000000 76.200027" a="13.8"/>
+	<group name="StaticObj_ammoboxes_single" pos="13181.533203 0.842767 9749.398438" rpy="9.999996 0.000000 127.765472" a="-37.7655"/>
+	<group name="Land_Container_1Mo" pos="13172.755859 -0.065528 9729.912109" rpy="-95.000000 0.000000 -10.028489" a="100.028"/>
+	<group name="StaticObj_ammoboxes_single" pos="13204.247070 0.677362 9741.118164" rpy="9.999996 0.000000 40.943462" a="49.0565"/>
+	<group name="StaticObj_ammoboxes_single" pos="13197.828125 0.843011 9739.697266" rpy="9.999996 0.000000 136.054993" a="-46.055"/>
+	<group name="StaticObj_ammoboxes_single" pos="13200.959961 0.870309 9745.995117" rpy="9.999996 0.000000 -172.380203" a="-97.6198"/>
+	<group name="StaticObj_Wreck_Ship_Big_FrontA" pos="13188.958008 9.679737 9694.728516" rpy="0.000000 0.000000 94.674759" a="-4.67476"/>
+	<group name="StaticObj_Wreck_Ship_Big_FrontB" pos="13188.376953 8.183338 9714.695313" rpy="0.000000 0.000000 94.982391" a="-4.98239"/>
+	<group name="StaticObj_Wreck_Ship_Big_BackB" pos="13213.408203 8.053320 9784.671875" rpy="-0.000000 -0.000000 119.468323" a="-29.4683"/>
+	<group name="StaticObj_Wreck_Ship_Big_BackA" pos="13203.171875 9.594166 9767.921875" rpy="0.000000 0.000000 119.647766" a="-29.6478"/>
+	<group name="Land_Ship_Big_Castle" pos="13207.587891 18.260231 9774.895508" rpy="-0.000000 -0.000000 119.645554" a="-29.6456"/>
+</map>
